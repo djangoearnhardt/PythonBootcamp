@@ -1,4 +1,4 @@
-# Python3 Bootcamp HW
+# Python3 Bootcamp Section 6 Functions and Methods HW
 
 # Write a function that computes the volume of a sphere given its radius.
 import math
